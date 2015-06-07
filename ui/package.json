@@ -1,0 +1,9 @@
+{
+  "name": "toy_project",
+  "author": "nippysaurus",
+  "version": "0.0.0",
+  "repository": "https://github.com/nippysaurus/toy_project",
+  "dependencies": {
+    "react": "~0.12.0"
+  }
+}
