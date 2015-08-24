@@ -95,4 +95,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rails (= 4.2.0)
+  rails (~> 4.2.0)
